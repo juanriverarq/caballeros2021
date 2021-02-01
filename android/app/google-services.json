@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105407422339",
+    "firebase_url": "https://caballeros-4627c.firebaseio.com",
+    "project_id": "caballeros-4627c",
+    "storage_bucket": "caballeros-4627c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105407422339:android:af6d2c49c61839681da0b6",
+        "android_client_info": {
+          "package_name": "com.caballeros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105407422339-t409koip3pf28s6q9ud6c7ntalj60vo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PF8SHqfXa9xyJ6vlBQHhGYf17ksvgWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105407422339-t409koip3pf28s6q9ud6c7ntalj60vo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
